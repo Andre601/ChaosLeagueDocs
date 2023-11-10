@@ -15,3 +15,4 @@ The following Minigames are available:
 - [How Low Can You Go](how-low-can-you-go.md)
 - [Quip Battle](quip-battle.md)
 - [Bounce House](bounce-house.md)
+- [Danger Zone](danger-zone.md)
